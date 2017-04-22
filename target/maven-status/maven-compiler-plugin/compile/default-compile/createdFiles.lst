@@ -1,0 +1,7 @@
+MyApplication.class
+com/idodevjobs/sample/model/ExampleModel.class
+HelloWorld.class
+com/idodevjobs/sample/service/ExampleServiceImpl.class
+com/idodevjobs/sample/service/ExampleService.class
+UserCollection/UserCollection.class
+User/User.class
